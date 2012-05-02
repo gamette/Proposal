@@ -1,4 +1,4 @@
-Gregory Gamette
+Gregory Gamette  
 ggamette@pubknow.com 
 
 # Highlights
