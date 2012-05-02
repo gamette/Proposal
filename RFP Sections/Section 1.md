@@ -1,4 +1,3 @@
-Proposal
-========
+# AZ WIC EBT Proposal
 
-Test for proposal writing
+Here's section 1
