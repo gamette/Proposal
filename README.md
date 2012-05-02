@@ -1,4 +1,4 @@
-Proposal
+AZ WIC EBT Planning Proposal
 ========
 
-Test for proposal writing
+We're going to use this repository to develop the Arizona WIC EBT proposal.
